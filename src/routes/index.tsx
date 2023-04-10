@@ -12,7 +12,7 @@ export default function Home() {
         <a href="https://vk.com/debeloid" target="_blank">
         https://vk.com/debeloid
         </a>{" "}
-        :moy vkontakte.
+        :мой вк, но сколько не кликай, я все равно крутой, а альт банда - бесы.
       </p>
     </main>
   );

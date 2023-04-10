@@ -26,7 +26,7 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
             <A href="/">попа</A>
-            <A href="/about">About</A>
+            <A href="/about">анфиска</A>
             <Routes>
               <FileRoutes />
             </Routes>

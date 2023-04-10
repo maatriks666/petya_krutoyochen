@@ -13,6 +13,7 @@ export default function Home() {
         https://vk.com/debeloid
         </a>{" "}
         сколько не кликай, я все равно крутой, а альт банда - бесы.
+        <img src="https://i.ytimg.com/vi/1LxPSxmiI4g/mqdefault.jpg">
       </p>
     </main>
   );

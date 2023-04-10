@@ -10,6 +10,6 @@ describe('empty spec', () => {
 
   it('displays Click button', () => {
     cy.get('button')
-    .contains('счётчик моей крутости:');
+    .contains('счётчик петиной крутости:');
   })
 })

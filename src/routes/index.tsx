@@ -10,7 +10,7 @@ export default function Home() {
       <p>
         Visit{" "}
         <a href="https://vk.com/debeloid" target="_blank">
-          start.solidjs.com
+        https://vk.com/debeloid
         </a>{" "}
         moy vkontakte.
       </p>

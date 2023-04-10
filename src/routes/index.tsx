@@ -8,7 +8,7 @@ export default function Home() {
       <h1>счётчик того, насколько петя крутой:</h1>
       <Counter />
       <p>
-        Visit{" "}
+        мой вк:{" "}
         <a href="https://vk.com/debeloid" target="_blank">
         https://vk.com/debeloid
         </a>{" "}

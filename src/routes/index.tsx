@@ -12,7 +12,7 @@ export default function Home() {
         <a href="https://vk.com/debeloid" target="_blank">
           start.solidjs.com
         </a>{" "}
-        moy vk.
+        moy vkontakte.
       </p>
     </main>
   );
